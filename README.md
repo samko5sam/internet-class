@@ -3,4 +3,4 @@
 
 |作業一：個人網頁|作業二：React.js|
 |-|-|
-|[Website Link](https://me.sk5s.cyou)|[Website Link](https://samko5sam.github.io/internet-react/)|
+|[Website Link](https://me.sk5s.cyou)|[Website Link](https://samko5sam.github.io/internet-react/)<br>[Repo](https://github.com/samko5sam/internet-react)|
